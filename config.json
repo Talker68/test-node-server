@@ -1,0 +1,6 @@
+{
+  "data": {
+    "customers": "data/customers.json",
+    "products": "data/products.json"
+  }
+}

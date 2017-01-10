@@ -1,0 +1,17 @@
+[
+  {
+    "_id": 1,
+    "name": "Anatoly Vasilev",
+    "age": 30
+  },
+  {
+    "_id": 2,
+    "name": "Marina Vasileva",
+    "age": 30
+  },
+  {
+    "_id": 3,
+    "name": "Kristina Vasileva",
+    "age": 1
+  }
+]
